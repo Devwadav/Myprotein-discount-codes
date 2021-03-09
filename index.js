@@ -54,7 +54,7 @@ function Devwadav()
         {
           site: 'https://br.gearbest.com/',
           discount_code: 'TINESDAY',
-          offer: '60% off'
+          offer: '70% off'
         }
       ]
 }
