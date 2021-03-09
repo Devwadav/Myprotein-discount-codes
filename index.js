@@ -9,7 +9,7 @@ function Devwadav()
         {
           site: 'https://gearbest.com/',
           discount_code: 'BUY20',
-          offer: '20% off'
+          offer: '25% off'
         },
         {
           site: 'https://pl.gearbest.com/',
